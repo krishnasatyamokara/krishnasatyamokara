@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hi there 👋, I'm Krishna Satya<br><br>🎓 Computer Science Engineering Student<br><br>💻 Currently learning Java Full Stack Development<br>🤖 Interested in Machine Learning and Artificial Intelligence<br>📚 Exploring Data Structures & Algorithms, Operating Systems, and modern web technologies<br>🚀 Building projects and continuously improving my problem-solving skills<br><br>### Tech Stack<br>- Java<br>- HTML, CSS, JavaScript<br>- SQL<br>- Git & GitHub<br>- Learning: Spring Boot, React, Machine Learning<br><br>### Goals<br>- Become a skilled Full Stack Developer<br>- Explore Machine Learning and AI applications<br>- Contribute to impactful projects and open-source<br><br>📫 Always open to learning and collaborating!
+# Hi there 👋, I'm Krishna Satya<br><br>🎓 Computer Science Engineering Student<br><br>💻 Currently learning Java Full Stack Development<br>🤖 Interested in Machine Learning and Artificial Intelligence<br>📚 Exploring Data Structures & Algorithms, CS core, and modern web technologies<br>🚀 Building projects and continuously improving my problem-solving skills<br><br>
+# Tech Stack<br>- Java<br>- HTML, CSS, JavaScript<br>- SQL<br>- Git & GitHub<br>- Learning: Spring Boot, React, Machine Learning<br><br>
+# Goals<br>- Become a skilled Full Stack Developer<br>- Explore Machine Learning and AI applications<br>- Contribute to impactful projects and open-source<br><br>📫 Always open to learning and collaborating!
 
 
 ## 🌐 Socials:
